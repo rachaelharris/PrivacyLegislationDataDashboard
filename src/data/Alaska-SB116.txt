@@ -1,0 +1,822 @@
+
+00                             SENATE BILL NO. 116                                                                         
+01 "An Act establishing the Consumer Data Privacy Act; establishing data broker                                            
+02 registration requirements; making a violation of the Consumer Data Privacy Act an                                       
+03 unfair or deceptive trade practice; and providing for an effective date."                                               
+04 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:                                                                
+05    * Section 1.  AS 44.33.020(a) is amended by adding a new paragraph to read:                                        
+06                 (45)  establish and maintain a data broker registry.                                                    
+07    * Sec. 2.  AS 45 is amended by adding a new chapter to read:                                                       
+08                   Chapter 49. Consumer Data Privacy Act.                                                              
+09       Article 1. Collection, Sale, or Disclosure of Consumer Personal Information.                                    
+10 Sec. 45.49.010. Notice of collection, sale, or disclosure of personal                                                 
+11 information. (a) A business that collects personal information from a consumer shall                                  
+12 notify the consumer before collecting the information. Notification to the consumer                                     
+13 must indicate the categories of personal information that will be collected, the specific                               
+14 purposes for which each category of personal information will be used, and the                                          
+01 consumer's right to opt out of the sale of the consumer's personal information and use                                  
+02 of the consumer's precise geolocation data under AS 45.49.050. A business may not                                       
+03 collect an additional category of personal information or use the collected personal                                    
+04 information for an additional purpose without first notifying the consumer in                                           
+05       accordance with this section.                                                                                     
+06 (b)  A business shall maintain, and update at least once every 12 months, in the                                        
+07 business's online privacy policies and in any state-specific description of consumers'                                  
+08 privacy rights, or on the business's Internet website if the business does not maintain                                 
+09       those policies, the following information:                                                                        
+10                 (1)  a description of a consumer's rights under this chapter;                                           
+11 (2)  all the designated methods of the business by which a consumer                                                     
+12       can request access to or deletion of information as provided under this chapter;                                  
+13 (3)  a list of the categories of consumer personal information that the                                                 
+14 business collected, sold, or disclosed for a business or commercial purpose in the                                      
+15 preceding 12 months, and a designation of that information as collected, sold, or                                       
+16 disclosed for a business or commercial purpose; or, if the business did not collect, sell,                              
+17 or disclose any consumer personal information for a business or commercial purpose,                                     
+18       a disclosure of that fact;                                                                                        
+19 (4)  the categories of sources from which the consumer personal                                                         
+20       information was collected;                                                                                        
+21 (5)  a description of the business or commercial purpose for which each                                                 
+22       category of consumer personal information was collected, sold, or disclosed;                                      
+23 (6)  the categories of third parties to which the business sold or                                                      
+24       disclosed consumer personal information;                                                                          
+25 (7)  a description of a consumer's right to request specific pieces of the                                              
+26       consumer's personal information that the business collected;                                                      
+27 (8)  a statement that information collected to verify a consumer's                                                      
+28 disclosure or deletion request shall only be used as provided in AS 45.49.060(d) and                                    
+29       (e)(1).                                                                                                           
+30 (c)  In addition to the requirements of (b) of this section, a business shall                                           
+31       include on its Internet website                                                                                   
+01 (1)  a clear and conspicuous link to an Internet webpage titled "Do Not                                                 
+02 Collect or Sell My Personal Information" that enables a consumer to exercise the                                        
+03 consumer's rights under this chapter; a business may not require a consumer create an                                   
+04 account to access this Internet webpage or to opt out under this section; the link must                                 
+05       be included                                                                                                       
+06                      (A)  on the homepage of the business's Internet website;                                           
+07                      (B)  in the business's online privacy policies if the business has                                 
+08            online privacy policies; and                                                                                 
+09                      (C)  in any state-specific description of consumers' privacy                                       
+10            rights; and                                                                                                  
+11                 (2)  a description of a consumer's rights under this chapter.                                           
+12 (d)  A business may comply with (c) of this section by including the required                                           
+13 content on a separate and additional Internet webpage that is dedicated to state                                        
+14 consumers. A business shall include on an Internet webpage dedicated to state                                           
+15 consumers the content required under (b) and (c) of this section and reasonably ensure                                  
+16       that state consumers are directed to the alternative Internet website.                                            
+17 (e)  A business subject to this chapter shall provide training to individuals                                           
+18 responsible for handling consumer questions or requests under this chapter, including                                   
+19 training in how to direct a consumer to exercise the consumer's rights under this                                       
+20       chapter.                                                                                                          
+21 Sec. 45.49.015. Personal information; notification upon receipt. (a) When a                                           
+22 person receives personal information for a business or commercial purpose that a                                        
+23 business originally collected from a consumer, the person shall notify the business that                                
+24 the person possesses the personal information and provide the person's contact                                          
+25 information. The person shall provide updated contact information to the business if                                    
+26       the person's contact information changes.                                                                         
+27 (b)  A person who receives personal information that a business originally                                              
+28 collected from a consumer, and who discloses the personal information to another                                        
+29 person for a business or commercial purpose, shall notify the business that originally                                  
+30 collected the information not later than 10 days after the disclosure. The notification                                 
+31 must include the contact information of the person to whom the personal information                                     
+01       was disclosed.                                                                                                    
+02 (c)  A person who receives personal information that a business originally                                              
+03 collected from a consumer shall either deidentify the personal information or maintain                                  
+04 the personal information in such a way that the person can readily comply with a                                        
+05       disclosure or deletion request under this chapter.                                                                
+06 (d)  A business that collects or has collected personal information from a                                              
+07 consumer shall maintain records of each person to whom the business discloses the                                       
+08 personal information. The business shall also maintain all records provided to the                                      
+09       business under (a) and (b) of this section.                                                                       
+10 (e)  A person may not disclose personal information that a business collected                                           
+11 from a consumer unless the personal information is disclosed in accordance with a                                       
+12 contract that requires the recipient to comply with a deletion request issued under this                                
+13       chapter.                                                                                                          
+14 Sec. 45.49.020. Right to request disclosure of collected personal                                                     
+15 information. (a) A consumer may request a business that collects or collected the                                     
+16       consumer's personal information disclose to the consumer                                                          
+17 (1)  the categories and specific pieces of personal information that the                                                
+18       business collects or collected within the five years preceding the date of the request;                           
+19 (2)  the sources from which the business collects or collected each                                                     
+20       category of personal information; and                                                                             
+21 (3)  the business or commercial purpose for the collection of each                                                      
+22       category of personal information.                                                                                 
+23 (b)  A business shall respond to a verified consumer request under this section                                         
+24       as required by AS 45.49.060.                                                                                      
+25 Sec. 45.49.030. Right to request deletion of personal information. (a) A                                              
+26 consumer may request a business delete any of the consumer's personal information                                       
+27 collected by the business from the consumer within the five years preceding the date                                    
+28       of the request.                                                                                                   
+29 (b)  Upon receipt of a verified consumer request under this section, a business                                         
+30       shall delete the information identified in the request from the business's records.                               
+31 (c)  A business that receives a deletion request under (b) of this section shall                                        
+01 direct all persons to whom a business disclosed records under AS 45.49.015 to delete                                    
+02 the personal information and provide a written statement verifying that the information                                 
+03 has been deleted within 45 days of the consumer's deletion request. A person shall                                      
+04 comply with a directive under this subsection. The business shall immediately provide                                   
+05 written notification to the attorney general and the consumer of a person who fails to                                  
+06       provide written verification of compliance.                                                                       
+07 (d)  A person is not required to delete personal information under (c) of this                                          
+08       section if the information must be maintained to                                                                  
+09 (1)  complete the transaction for which the personal information was                                                    
+10       collected;                                                                                                        
+11 (2)  provide a good or service requested or reasonably anticipated                                                      
+12       within an ongoing business relationship with the consumer;                                                        
+13 (3)  fulfill the terms of a written warranty or product recall conducted in                                             
+14       accordance with federal law;                                                                                      
+15                 (4)  perform a contract between the business and consumer;                                              
+16 (5)  detect security incidents; protect against malicious, deceptive,                                                   
+17       fraudulent, or illegal activity; or prosecute those responsible for that activity;                                
+18 (6)  identify and repair errors that impair existing, intended                                                          
+19       functionality of a product or service;                                                                            
+20 (7)  exercise a right provided for by law, including the right under the                                                
+21 First Amendment of the United States Constitution to freedom of expression, or ensure                                   
+22 the right of another consumer to exercise that consumer's right to freedom of                                           
+23       expression;                                                                                                       
+24                 (8)  comply with a search warrant, subpoena, or court order;                                            
+25 (9)  engage in public or peer-reviewed scientific, historical, or                                                       
+26 statistical research in the public interest that adheres to all other applicable ethics and                             
+27       privacy laws, if                                                                                                  
+28 (A)  the deletion of information is likely to seriously impair or                                                       
+29            render impossible the achievement of the research; and                                                       
+30 (B)  the consumer has provided informed consent to the                                                                  
+31            research;                                                                                                    
+01                 (10)  enable solely internal uses that are reasonably aligned with the                                  
+02       consumer's expectations, based on the consumer's relationship with the business; or                               
+03                 (11)  comply with a legal obligation.                                                                   
+04 Sec. 45.49.040. Right to request disclosure of personal information sold or                                           
+05 disclosed for a business or commercial purpose. (a) A consumer may request that a                                     
+06 business that sold or disclosed the consumer's personal information within the last five                                
+07       years for a business or commercial purpose disclose to the consumer                                               
+08                 (1)  the third parties subject to AS 45.49.015 in possession of the                                     
+09       consumer's personal information;                                                                                  
+10 (2)  the categories of personal information or specific pieces of personal                                              
+11 information that were sold or disclosed to each third party for a business or                                           
+12       commercial purpose;                                                                                               
+13 (3)  for the third parties to which the business directly disclosed the                                                 
+14 consumer's personal information for a business or commercial purpose, the business or                                   
+15       commercial purpose for disclosing each category of personal information.                                          
+16 (b)  A business shall respond to a verified consumer request under this section                                         
+17       as required by AS 45.49.060.                                                                                      
+18 Sec. 45.49.050. Right to opt out or for a minor to opt in. (a) A consumer                                             
+19 may, at any time, request that a business not sell the consumer's personal information                                  
+20       or not sell particular categories of the consumer's personal information.                                         
+21 (b)  A business shall limit the use and disclosure of a consumer's precise                                              
+22 geolocation data to that necessary to provide goods or services that a consumer                                         
+23 requests and reasonably expects, or goods and services the business reasonably                                          
+24 expects the consumer will request. A business may use a consumer's precise                                              
+25 geolocation data for other purposes if the consumer consents to the use. A consumer                                     
+26 who consents to the use of the consumer's precise geolocation data for other purposes                                   
+27 may, at any time, request that the business stop using the data for other purposes. In                                  
+28 this subsection, "consents" means the consumer agrees in writing, in an agreement                                       
+29 separate from any other user agreement, to the business's use of the consumer's precise                                 
+30       geolocation data for other purposes.                                                                              
+31 (c)  A business shall respond to a verified consumer request under this section                                         
+01 as required by AS 45.49.060, unless the consumer subsequently provides a clear and                                      
+02 explicit renunciation of the request. For one year after receiving a request under (a) or                               
+03 (b) of this section, a business may not contact the consumer to request that the                                        
+04       consumer renounce the request.                                                                                    
+05 (d)  If a business has actual knowledge that a consumer is under 18 years of                                            
+06 age, the business may not disclose the consumer's personal information for a business                                   
+07 or commercial purpose, or use the consumer's precise geolocation data for a purpose                                     
+08 other than to provide goods or services that the consumers reasonably requests and                                      
+09 expects. A business that recklessly disregards a reasonable likelihood that a consumer                                  
+10 is under 18 years of age is considered to have actual knowledge of the consumer's age.                                  
+11 A parent or guardian with legal custody of a consumer who is at least 13 years of age                                   
+12 but under 18 years of age may authorize the sale or disclosure of the consumer's                                        
+13 personal information or the use of the consumer's precise geolocation data for any                                      
+14       purpose.                                                                                                          
+15 (e)  A business subject to this section may only use the personal information                                           
+16 collected from a consumer's request under this section to comply with the request,                                      
+17       unless otherwise authorized by the consumer or by law.                                                            
+18 Sec. 45.49.060. Disclosure or deletion request; process. (a) A business shall                                         
+19       respond to a verified consumer request under AS 45.49.020 or 45.49.040 by                                         
+20 (1)  providing the requested information electronically to the consumer                                                 
+21 in a portable and, to the extent technically feasible, readily useable format that allows                               
+22       the consumer to transmit the information to another entity without hindrance;                                     
+23 (2)  if the information provided under (1) of this subsection is not in a                                               
+24 human-readable format, providing the requested information to the consumer in a                                         
+25 human-readable format; in this paragraph, "human-readable" means a format that is                                       
+26       easily readable to the consumer; and                                                                              
+27 (3)  at the consumer's request, providing the requested information by                                                  
+28       mail.                                                                                                             
+29 (b)  A business subject to this chapter shall designate at least two methods for a                                      
+30 consumer to submit a request under AS 45.49.020 - 45.49.050, including, at a                                            
+31 minimum, a toll-free telephone number and an electronic mail address. If a business                                     
+01 maintains an Internet website, the website must include an option to submit requests                                    
+02 under AS 45.49.020 - 45.49.050 on a public facing page. A designated method for                                         
+03 submitting requests may include a mailing address, electronic mail address, Internet                                    
+04 website, Internet web portal, toll-free telephone number, other applicable contact                                      
+05 information, or any new, consumer-friendly means of contacting a business as                                            
+06       determined by regulation.                                                                                         
+07 (c)  A person may not charge a consumer a fee for performing a duty required                                            
+08       by this chapter.                                                                                                  
+09 (d)  A person may only use the information provided by a consumer in a                                                  
+10 request made under AS 45.49.020 - 45.49.050 to identify the consumer and comply                                         
+11       with the request.                                                                                                 
+12 (e)  In response to a request made under AS 45.49.020 - 45.49.050, a business                                           
+13       shall                                                                                                             
+14 (1)  promptly determine whether the request is a verified consumer                                                      
+15 request as defined in AS 45.49.290; to make a determination under this paragraph, a                                     
+16       business                                                                                                          
+17 (A)  may require reasonable authentication considering the                                                              
+18            nature of the personal information requested;                                                                
+19 (B)  may not require that a consumer create an account with the                                                         
+20 business; however, if the consumer maintains an account with the business, the                                          
+21            business may require the consumer submit the request through the account;                                    
+22 (2)  identify in writing the personal information subject to a disclosure                                               
+23       request; the information disclosed must                                                                           
+24 (A)  encompass the 12-month period preceding the request, or                                                            
+25            another applicable period designated by the consumer;                                                        
+26 (B)  be designated by the most relevant category of personal                                                            
+27            information as defined in AS 45.49.290;                                                                      
+28 (C)  clearly separate information requested under AS 45.49.020                                                          
+29            and 45.49.040(a)(1) - (3);                                                                                   
+30 (3)  disclose and deliver the identified information in a verified                                                      
+31       disclosure request in writing not later than 45 days after receipt of the request;                                
+01 (4)  not later than 45 days after receipt of a verified deletion request,                                               
+02       comply with AS 45.49.030, and provide confirmation of compliance to the consumer.                                 
+03 (f)  The time to respond to a disclosure or deletion request under (e)(3) and (4)                                       
+04 of this section may be extended once for an additional 45 days when reasonably                                          
+05 necessary. If the time to respond is extended, the business must notify the consumer of                                 
+06       the extension.                                                                                                    
+07 (g)  A business may disclose or provide confirmation of deletion of                                                     
+08 information to the consumer by mail, through the consumer's account with the                                            
+09 business, or electronically at the consumer's request if the consumer does not have an                                  
+10       account with the business.                                                                                        
+11 (h)  Notwithstanding any other requirement in this section, if a consumer's                                             
+12 requests are manifestly unfounded or excessive, in particular because of the requests'                                  
+13 repetitive character, a business may either charge a reasonable fee, taking into account                                
+14 the administrative costs of complying with the consumer's request, or refuse to act on                                  
+15 the request. The business shall notify the consumer of a decision to charge a fee or to                                 
+16 deny a request within the timeline provided under (f) of this section. The notification                                 
+17 must completely explain the business's reason for finding the request excessive or                                      
+18 unfounded, including all pertinent facts. The business shall bear the burden of proving                                 
+19       that a consumer's request is manifestly unfounded or excessive.                                                   
+20 (i)  A business is not required to respond to a disclosure or deletion request                                          
+21 under AS 45.49.020 - 45.49.040 if the consumer making the request has made two                                          
+22       verified consumer requests in the previous 365 days.                                                              
+23 (j)  A business is not required under this section to retain personal information                                       
+24 collected for a single, one-time transaction, if the business does not sell or disclose the                             
+25       information.                                                                                                      
+26 (k)  A business is not required under this section to reidentify or otherwise link                                      
+27 any data that, in the ordinary course of business, is not maintained in a manner that                                   
+28       would be considered personal information.                                                                         
+29 (l)  A business is not required to provide or delete information under this                                             
+30 section if the business cannot verify the consumer request as provided under (e) of this                                
+31       section.                                                                                                          
+01 Sec. 45.49.070. Third-party disclosure of personal information. (a) A third                                           
+02 party may not disclose personal information to another person if the personal                                           
+03 information was originally collected in violation of AS 45.49.010 or 45.49.050. A                                       
+04 third party that reasonably inquires into whether personal information was collected in                                 
+05 violation of AS 45.49.010 or 45.49.050, and reasonably concludes that information                                       
+06 was not obtained in violation of AS 45.49.010 or 45.49.050 may not be held liable for                                   
+07       a violation under this section.                                                                                   
+08 (b)  A third party may not disclose a consumer's personal information for a                                             
+09 business or commercial purpose unless the third party receives written confirmation                                     
+10 from the business that originally collected the personal information that the                                           
+11       information was collected in compliance with AS 45.49.010 and 45.49.050.                                          
+12            Sec. 45.49.080 Service provider obligations. (a) A service provider may not                                
+13 (1)  retain, use, or disclose personal information received from a                                                      
+14 business for any purpose other than to perform the services specified in a written                                      
+15       contract with the business;                                                                                       
+16 (2)  combine personal information received from a business with                                                         
+17 personal information the service provider receives from other sources, unless                                           
+18       otherwise provided in regulations adopted by the attorney general;                                                
+19 (3)  disclose personal information received from a business to any other                                                
+20       person without first                                                                                              
+21 (A)  receiving written consent of the business to disclose the                                                          
+22            personal information to the other person; and                                                                
+23 (B)  entering into a written contract with the other person that                                                        
+24 prohibits the other person from engaging in conduct prohibited under this                                               
+25            section.                                                                                                     
+26 (b)  A person who receives personal information from a service provider may                                             
+27       not disclose the personal information to any other person.                                                        
+28            Sec. 45.49.090. Exemptions. (a) This chapter does not apply to                                             
+29 (1)  protected health information that is collected by a covered entity or                                              
+30 business associate governed by the privacy, security, and breach notification rules                                     
+31 issued by the United States Department of Health and Human Services in 45 C.F.R.                                        
+01 Part 160 and 164, established under the Health Insurance Portability and                                                
+02 Accountability Act of 1996 (P.L. 104 - 191) and the Health Information Technology                                       
+03 for Economic and Clinical Health Act (P.L. 111 - 5); in this paragraph, "protected                                      
+04       health information" has the meaning given in 45 C.F.R. 160.103;                                                   
+05 (2)  a covered entity governed by the privacy, security, and breach                                                     
+06 notification rules issued by the United States Department of Health and Human                                           
+07 Services in 45 C.F.R. Part 160 and 164, established under the Health Insurance                                          
+08 Portability and Accountability Act of 1996 (P.L. 104 - 191), to the extent the provider                                 
+09 or covered entity maintains patient information in the same manner as medical                                           
+10       information or protected health information as described in (1) of this subsection;                               
+11 (3)  information collected as part of a clinical trial subject to the Federal                                           
+12 Policy for the Protection of Human Subjects, also known as the Common Rule, under                                       
+13 good clinical practice guidelines issued by the International Council for                                               
+14 Harmonisation of Technical Requirements for Pharmaceuticals for Human Use, or                                           
+15 human subject protection requirements of the United States Food and Drug                                                
+16       Administration;                                                                                                   
+17 (4)  vehicle or ownership information retained or shared between a new                                                  
+18 motor vehicle dealer and the motor vehicle manufacturer, if the information is shared                                   
+19 for the purpose of or in anticipation of effectuating a vehicle repair covered by a                                     
+20 vehicle warranty or recall conducted under 49 U.S.C. 30118 - 30120, provided that the                                   
+21 new motor vehicle dealer or vehicle manufacturer does not sell, share, or use the                                       
+22       information for any other purpose.                                                                                
+23 (b)  Notwithstanding other provisions of this chapter, a person may disclose a                                          
+24       consumer's personal information to                                                                                
+25                 (1)  comply with federal, state, or local law;                                                          
+26 (2)  comply with a civil, criminal, or regulatory inquiry or an                                                         
+27       investigation, subpoena, or summons by federal, state, or local authorities;                                      
+28 (3)  cooperate with law enforcement agencies concerning conduct or                                                      
+29 activity that the person reasonably and in good faith believes may violate federal,                                     
+30       state, or local law;                                                                                              
+31                 (4)  exercise or defend legal claims;                                                                   
+01 (5)  collect, use, retain, sell, or disclose, deidentified or aggregated                                                
+02       consumer information.                                                                                             
+03 (c)  Notwithstanding other provisions of this chapter, a business may collect or                                        
+04 sell a consumer's personal information if the commercial conduct takes place wholly                                     
+05 outside the state. For the purpose of this subsection, commercial conduct takes place                                   
+06       wholly outside the state if                                                                                       
+07 (1)  the business collected the information while the consumer was                                                      
+08 outside the state; this does not include the storage of personal information, including                                 
+09 on a personal device, while the consumer is in the state and collection when the                                        
+10       consumer and stored information subsequently leave the state;                                                     
+11 (2)  no part of the sale of the consumer's personal information occurred                                                
+12       in the state; and                                                                                                 
+13 (3)  no personal information collected while the consumer was in the                                                    
+14       state was sold.                                                                                                   
+15 (d)  Excluding the right to file an action for a violation of AS 45.49.120, this                                        
+16       chapter does not apply to                                                                                         
+17 (1)  an activity that is subject to 15 U.S.C. 1681 (Fair Credit Reporting                                               
+18 Act) that involves the collection, maintenance, disclosure, sale, communication, or use                                 
+19 of any personal information bearing on a consumer's credit worthiness, credit                                           
+20 standing, credit capacity, character, general reputation, personal characteristics, or                                  
+21 mode of living by a consumer reporting agency; a furnisher of information, who                                          
+22 provides information for use in a consumer report, or by a user of a consumer report,                                   
+23 to the extent the information is used as authorized under 15 U.S.C. 1681 (Fair Credit                                   
+24       Reporting Act);                                                                                                   
+25 (2)  personal information collected, processed, sold, or disclosed under                                                
+26 15 U.S.C. 6801 - 6827 (Gramm-Leach-Bliley Act) and related regulations or under 18                                      
+27       U.S.C. 2721 et seq. (Driver's Privacy Protection Act of 1994) and related regulations.                            
+28 (e)  Excluding the requirements of AS 45.49.010(a) and the right to file an                                             
+29 action for a violation of AS 45.49.120, information collected by a business is exempt                                   
+30       from this chapter until January 1, 2024, if the information                                                       
+31                 (1)  is collected through a person's                                                                    
+01                      (A)  job application to the business;                                                              
+02                      (B)  service as an employee, officer, or director of the business;                                 
+03                      (C)  ownership of the business;                                                                    
+04                      (D)  service as a dentist licensed under AS 08.36, physician                                       
+05            licensed under AS 08.64, or a psychologist licensed under AS 08.86; or                                       
+06                      (E)  work as a contractor for the business; and                                                    
+07                 (2)  consists only of                                                                                   
+08                      (A)  personal information used solely within the context for                                       
+09            which it was collected;                                                                                      
+10 (B)  emergency contact information used solely for the purpose                                                          
+11            of having an emergency contact on file; or                                                                   
+12                      (C)  personal information retained solely to administer benefits.                                  
+13 (f)  Except for AS 45.49.050 and 45.49.120, personal information contained in                                           
+14 written or verbal communication or a transaction between a business and a consumer                                      
+15       is exempt from this chapter if                                                                                    
+16 (1)  the consumer is a natural person acting as an employee, owner,                                                     
+17 director, officer, or contractor of a company, partnership, sole proprietorship,                                        
+18       nonprofit, or government agency; and                                                                              
+19 (2)  the communication or transaction occurs solely within the context                                                  
+20 of the business's exercising due diligence regarding a product or service, or to receive                                
+21 a product or service from or provide a product or service to the company, partnership,                                  
+22       sole proprietorship, nonprofit, or government agency.                                                             
+23            (g)  A requirement under this chapter does not apply if                                                      
+24 (1)  compliance with the requirement would violate an evidentiary                                                       
+25       privilege under state law;                                                                                        
+26 (2)  the business provides personal information as part of privileged                                                   
+27       communication to a person covered by an evidentiary privilege;                                                    
+28 (3)  the right or obligation would adversely affect a right of another                                                  
+29       consumer;                                                                                                         
+30 (4)  the right or obligation would infringe on the noncommercial                                                        
+31 activity of a person or entity exercising rights under art. I, sec. 5, Constitution of the                              
+01       State of Alaska.                                                                                                  
+02 (h)  If a series of steps or transactions are component parts of a single                                               
+03 transaction, intended from the beginning to avoid the reach of this chapter, including a                                
+04 business's disclosure of information to a third party to avoid the definition of "sell" in                              
+05 AS 45.49.290, the steps or transactions may not be considered separate for the                                          
+06 purposes of determining compliance with, an exception to, or a violation of this                                        
+07       chapter.                                                                                                          
+08            (i)  In this section,                                                                                        
+09                 (1)  "contractor" means a person who is not an employee of a business                                   
+10       but provides a service to the business under a written contract;                                                  
+11                 (2)  "director" has the meaning given in AS 10.06.990;                                                  
+12 (3)  "motor vehicle manufacturer" means a person that meets the                                                         
+13 definition of "motor vehicle manufacturer" in AS 21.59.290 or the definition of                                         
+14       "manufacturer" in AS 45.25.990;                                                                                   
+15 (4)  "new motor vehicle dealer" has the meaning given in                                                                
+16       AS 45.25.990;                                                                                                     
+17 (5)  "officer" means a person appointed or designated as an officer of a                                                
+18 corporation by or under applicable law or the corporation's articles of incorporation or                                
+19 bylaws, or a person who performs for the corporation the functions usually performed                                    
+20       by an officer of a corporation;                                                                                   
+21                 (6)  "owner" means an individual who                                                                    
+22 (A)  owns, directly or indirectly, or has the power to vote more                                                        
+23 than 50 percent of the outstanding shares of any class of voting security of a                                          
+24            business;                                                                                                    
+25 (B)  controls, in any manner, the election of a majority of the                                                         
+26            directors or of individuals exercising similar functions; or                                                 
+27 (C)  has the power to exercise a controlling influence over the                                                         
+28            majority of the directors or of individuals exercising similar functions;                                    
+29 (7)  "ownership information" means the name of each registered owner                                                    
+30       and accompanying contact information;                                                                             
+31 (8)  "vehicle information" means the vehicle identification number; the                                                 
+01       vehicle's make, model, or year; or the vehicle's odometer reading.                                                
+02          Article 2. Activities and Penalties Relating to Personal Information.                                        
+03            Sec. 45.49.100. Retaliation prohibited. (a) A business may not retaliate                                   
+04       against a consumer in response to a consumer exercising rights under this chapter.                                
+05       Retaliation includes                                                                                              
+06                 (1)  denying goods or services;                                                                         
+07                 (2)  charging different prices or rates for goods or services, including                                
+08       through the use of discounts or other benefits or imposing penalties;                                             
+09                 (3)  providing a different level or quality of goods or services to a                                   
+10       consumer;                                                                                                         
+11 (4)  suggesting that a consumer will receive a different price or rate for                                              
+12       goods or services, or a different level or quality of goods or services.                                          
+13 (b)  Notwithstanding (a) of this section, a business may charge a consumer a                                            
+14 different rate or provide a different level or quality of goods or services to a consumer                               
+15 if the difference is reasonably related to the value provided to the business by the                                    
+16       consumer's data.                                                                                                  
+17 (c)  A business may offer a consumer a financial incentive for the collection,                                          
+18 sale, or retention of personal information, including direct payments to a consumer as                                  
+19 compensation. A business may also offer a different price, rate, level, or quality of                                   
+20 goods or services to the consumer if the price or difference is directly related to the                                 
+21 value provided to the business by the consumer's data. A business that offers a                                         
+22       financial incentive under this subsection                                                                         
+23                 (1)  shall notify consumers of the financial incentives;                                                
+24 (2)  shall obtain a consumer's consent before entering a consumer into a                                                
+25 financial incentive program; to obtain a consumer's consent under this paragraph, the                                   
+26 business shall provide the consumer access to a clear description of the material terms                                 
+27       of the financial incentive program; the consumer may revoke consent at any time;                                  
+28 (3)  may not use financial incentive practices that are unjust,                                                         
+29       unreasonable, coercive, or usurious.                                                                              
+30 Sec. 45.49.110. Transfer of information in a merger or acquisition. A                                                 
+31 business may transfer a consumer's personal information to a third party as part of a                                   
+01 merger, acquisition, bankruptcy, or other transaction in which the third party assumes                                  
+02 control of all or part of the business. If the third party decides to change how it uses or                             
+03 shares the consumer's personal information in a manner that is materially inconsistent                                  
+04 with the promises made at the time of collection, the third party shall notify the                                      
+05 consumer before the change. The notice must ensure that existing consumers can                                          
+06 easily exercise consumers' rights under this chapter. A transfer does not authorize a                                   
+07 business to make material, retroactive privacy policy changes or other changes in a                                     
+08       manner that violates state law.                                                                                   
+09 Sec. 45.49.120. Duty to maintain reasonable security measures. A business                                             
+10 that owns, licenses, or maintains a consumer's personal information shall implement                                     
+11 and maintain reasonable security procedures and practices appropriate to the nature of                                  
+12 the information, to protect the personal information from unauthorized access,                                          
+13       destruction, use, modification, or disclosure.                                                                    
+14 Sec. 45.49.130. Violations. (a) A violation of this chapter is an unfair or                                           
+15       deceptive act or practice under AS 45.50.471 - 45.50.561.                                                         
+16 (b)  In an action brought under AS 45.50.531(a), a consumer whose personal                                              
+17 information is subjected to unauthorized access, destruction, use, modification, or                                     
+18 disclosure has suffered an ascertainable loss of $1 or of an amount proven at trial,                                    
+19       whichever is greater.                                                                                             
+20            (c)  A person who violates this chapter commits the greater of                                               
+21                 (1)  one violation for each action or omission that violates this chapter;                              
+22                 (2)  one violation for each person the violation affects; or                                            
+23                 (3)  one violation for each day the violation continues.                                                
+24 (d)  The legislature may appropriate funds recovered as a result of an action                                           
+25 brought under this section to the consumer privacy account established in                                               
+26 AS 45.49.140. The Department of Law may use money in the account, without further                                       
+27 appropriation, to offset costs incurred by the department in connection with enforcing                                  
+28       this chapter.                                                                                                     
+29 Sec. 45.49.140. Consumer privacy account. The consumer privacy account is                                             
+30 established in the general fund. The legislature may appropriate funds to the consumer                                  
+31 privacy account from any civil penalty collected in an action brought by the attorney                                   
+01       general under this chapter.                                                                                       
+02                      Article 3. Data Broker Registry.                                                                 
+03 Sec. 45.49.200. Data broker registration. (a) On or before January 31                                                 
+04 following each year that a business meets the definition of data broker in                                              
+05 AS 45.49.290, the business shall register with the commissioner of commerce,                                            
+06       community, and economic development in accordance with this section.                                              
+07            (b)  The data broker shall provide, on a form provided by the commissioner,                                  
+08       the following information:                                                                                        
+09                 (1)  the name of the data broker;                                                                       
+10                 (2)  the data broker's primary physical and mailing addresses;                                          
+11                 (3)  the data broker's electronic mail address;                                                         
+12                 (4)  the data broker's primary Internet website address; and                                            
+13 (5)  the data broker's "Do Not Collect or Sell My Personal Information"                                                 
+14 Internet website address as required under AS 45.49.010(c) or alternative Internet                                      
+15       webpage that meets the requirements of AS 45.49.010(d).                                                           
+16 (c)  The data broker shall pay a registration fee in an amount established by the                                       
+17       department in regulation.                                                                                         
+18 Sec. 45.49.210. Data broker registry publicly displayed. The commissioner                                             
+19 of commerce, community, and economic development shall make the information                                             
+20       provided by data brokers available on the department's Internet website.                                          
+21                     Article 4. Miscellaneous Provisions.                                                              
+22 Sec. 45.49.250. Regulations. (a) The attorney general, in accordance with                                             
+23       AS 44.62 (Administrative Procedure Act), shall adopt regulations that                                             
+24 (1)  create specific exceptions required to comply with state or federal                                                
+25       law;                                                                                                              
+26 (2)  govern the Internet webpage requirement of AS 45.49.010,                                                           
+27       including                                                                                                         
+28 (A)  the use of a recognizable and uniform mark to identify the                                                         
+29            opportunity to exercise a right under this chapter;                                                          
+30                      (B)  the submission of a consumer request;                                                         
+31                      (C)  a business's compliance with a request under AS 45.49.050;                                    
+01                 (3)  update, as necessary, additional categories of personal information                                
+02       required to be disclosed in response to relevant changes in technology, data collection                           
+03       practices, privacy concerns, or obstacles to implementation;                                                      
+04                 (4)  update, as necessary, the interpretation of unique identifiers in                                  
+05       response to relevant changes in technology, data collection practices, privacy                                    
+06       concerns, or obstacles to implementation;                                                                         
+07                 (5)  update, as necessary, the interpretation of designated methods for                                 
+08       submitting requests to facilitate a consumer's ability to obtain information from a                               
+09       business;                                                                                                         
+10 (6)  establish requirements to ensure that notices and information                                                      
+11 provided under AS 45.49.010 are in plain language, accessible to consumers with                                         
+12 disabilities, and available in the language primarily used by the business to interact                                  
+13       with the consumer, including with regard to financial incentive offerings;                                        
+14 (7)  govern the process by which a business verifies a consumer request                                                 
+15 under AS 45.49.020 - 45.49.060, in a manner intended to minimize the administrative                                     
+16 burden on the consumer and taking into account the available technology, security                                       
+17       concerns, and the burden on the business;                                                                         
+18 (8)  designate the process for a consumer to authorize a representative                                                 
+19       to exercise the rights provided under this chapter on the consumer's behalf.                                      
+20            (b)  The attorney general may adopt regulations that                                                         
+21 (1)  establish rules and procedures for processing and complying with a                                                 
+22 verified consumer request for specific pieces of personal information relating to a                                     
+23       household to address obstacles to implementation and privacy concerns;                                            
+24 (2)  state that service providers may combine personal information for                                                  
+25       specified purposes;                                                                                               
+26                 (3)  are necessary to further the purpose of this chapter.                                              
+27 Sec. 45.49.260. Provisions not waivable. A consumer's waiver of the                                                   
+28 provisions of this chapter is contrary to public policy and is unenforceable and void.                                  
+29       This section does not prevent a consumer from                                                                     
+30                 (1)  declining to request information from a business;                                                  
+31 (2)  declining to opt out of a business's collection, sale, or disclosure of                                            
+01       the consumer's personal information; or                                                                           
+02                 (3)  authorizing a business to sell the consumer's personal information                                 
+03       after previously opting out.                                                                                      
+04            Sec. 45.49.270. Liberal construction. The intent of this chapter is remedial                               
+05       and its provisions shall be liberally construed.                                                                  
+06                       Article 5. General Provisions.                                                                  
+07            Sec. 45.49.290. Definitions. In this chapter, unless the context indicates                                 
+08       otherwise,                                                                                                        
+09                 (1)  "aggregated consumer information" means information that relates                                   
+10 to a group or category of consumers from which individual consumer identities have                                      
+11 been removed, and that is not linked or reasonably linkable, including by a device, to                                  
+12 any consumer or household; "aggregated consumer information" does not include one                                       
+13       or more individual consumer records that have been deidentified;                                                  
+14 (2)  "business" means a sole proprietorship, partnership, limited                                                       
+15 liability company, corporation, association, or other legal entity that is organized or                                 
+16 operated for the profit or financial benefit of its shareholders or other owners, and                                   
+17 collects or has collected consumers' personal information, or on the behalf of which                                    
+18 that information is collected, alone or jointly with others, determines the purposes and                                
+19 means of processing consumers' personal information; to meet the definition of                                          
+20       "business" in this paragraph, the entity must do business in the state and                                        
+21                      (A) satisfy one or more of the following thresholds:                                               
+22 (i)  had annual gross revenues of $25,000,000 or more in                                                                
+23                 the year 2022 or in any year thereafter;                                                                
+24 (ii) in the most recent completed calendar year, alone or                                                               
+25 in combination, bought or disclosed the personal information of                                                         
+26                 100,000 or more persons or households;                                                                  
+27 (iii)  sold the personal information of a consumer,                                                                     
+28                 household, or device in the last 365 days; or                                                           
+29 (B)  control or be controlled by a business that meets a                                                                
+30 threshold in (A) of this paragraph and share common branding, such as a                                                 
+31 shared name, service mark, or trademark, with the business; in this                                                     
+01            subparagraph, control is shown if a business has                                                             
+02                           (i)  ownership or the power to vote more than 50 percent                                      
+03                 of the outstanding shares of any class of voting security of a business;                                
+04                           (ii)  control, in any manner, of the election of a majority                                   
+05                 of the directors or of individuals exercising similar functions; or                                     
+06                           (iii)  the power to exercise a controlling influence over                                     
+07                 the majority of the directors or of individuals exercising similar                                      
+08                 functions;                                                                                              
+09                 (3)  "business purpose" means a use for an operational or other notified                                
+10 purpose that is either reasonably necessary and proportionate to achieving the                                          
+11 operational purpose for which personal information was collected or processed, or in a                                  
+12       compatible context; "compatible context" includes                                                                 
+13 (A)  auditing related to a current interaction with the consumer                                                        
+14 and concurrent transactions, including counting ad impressions to unique                                                
+15 visitors, verifying positioning and quality of ad impressions, and auditing                                             
+16            compliance with this specification and other standards;                                                      
+17 (B)  detecting security incidents, protecting against malicious,                                                        
+18 deceptive, fraudulent, or illegal activity, and prosecuting those responsible for                                       
+19            that activity;                                                                                               
+20 (C)  debugging to identify and repair errors that impair existing                                                       
+21            intended functionality;                                                                                      
+22 (D)  short-term, transient use, provided that the personal                                                              
+23 information is not disclosed to another third party and is not used to build a                                          
+24 profile about a consumer or alter an individual consumer's experience outside                                           
+25 the current interaction, including the contextual customization of ads shown as                                         
+26            part of the same interaction;                                                                                
+27 (E)  performing services on behalf of the business or service                                                           
+28 provider, including maintaining or servicing accounts, providing customer                                               
+29 service, processing or fulfilling orders and transactions, verifying customer                                           
+30 information, processing payments, providing financing, providing advertising                                            
+31 or marketing services, providing analytic services, or providing similar                                                
+01            services on behalf of the business or service provider;                                                      
+02                      (F)  conducting internal research for technological development                                    
+03            and demonstration;                                                                                           
+04 (G)  performing activities to verify or maintain the quality or                                                         
+05 safety of a service or device that is owned, manufactured, manufactured for, or                                         
+06 controlled by the business, and to improve, upgrade, or enhance the service or                                          
+07            device;                                                                                                      
+08                 (4)  "categories of personal information" includes any of the                                           
+09       enumerated categories of personal information as defined in this section, any                                     
+10 categories of personal information identified by a regulation adopted under this                                        
+11 chapter, and any additional categories of personal information not specifically                                         
+12       enumerated;                                                                                                       
+13 (5)  "categories of sources" includes the consumer, advertising                                                         
+14 networks, Internet service providers, data analytics providers, government entities,                                    
+15 operating systems and platforms, social networks, data brokers, other sources listed in                                 
+16 regulations adopted under this chapter; and other types or groupings of persons or                                      
+17 entities from which a business collects personal information about consumers,                                           
+18 described with enough particularity to provide consumers with a meaningful                                              
+19       understanding of the type of person or entity;                                                                    
+20 (6)  "categories of third parties" includes advertising networks, internet                                              
+21 service providers, data analytics providers, government entities, operating systems and                                 
+22 platforms, social networks, data brokers, other sources listed in regulations adopted                                   
+23 under this chapter; and other types or groupings of third parties with whom the                                         
+24 business shares personal information, described with enough particularity to provide                                    
+25       consumers with a meaningful understanding of the type of third party;                                             
+26 (7)  "collect" includes buying, renting, gathering, obtaining, receiving,                                               
+27 or accessing any personal information pertaining to a consumer by any means, actively                                   
+28 or passively receiving information from the consumer, or by observing the consumer's                                    
+29       behavior;                                                                                                         
+30 (8)  "commercial purpose" includes marketing, advertising, and any                                                      
+31 other purpose that advances a person's commercial or economic interests; "commercial                                    
+01 purpose" does not include the purpose of engaging in speech that state or federal                                       
+02 courts have recognized as noncommercial speech, including political speech and                                          
+03       journalism;                                                                                                       
+04 (9)  "consumer" means a resident of the state, however identified,                                                      
+05 including by any unique identifier, who is physically present in the state with the                                     
+06       intent to remain indefinitely in the state under the requirements of AS 01.10.055;                                
+07 (10)  "data broker" means a business as defined in (2) of this section                                                  
+08 that knowingly collects and sells to third parties the personal information of a                                        
+09 consumer with whom the business does not have a direct relationship; "data broker"                                      
+10 does not include a consumer reporting agency to the extent the agency is covered by                                     
+11 15 U.S.C. 1681 et seq. (Fair Credit Reporting Act) or a financial institution to the                                    
+12 extent the institution it is covered by the Gramm-Leach-Bliley Act (P.L. 106 - 102)                                     
+13       and implementing regulations;                                                                                     
+14 (11)  "disclose" includes all forms of disclosure, including the                                                        
+15       disclosure of personal information related to a sale of personal information;                                     
+16 (12)  "deidentified" means that the information cannot reasonably                                                       
+17 identify, relate to, describe, be capable of being associate with, or be directly or                                    
+18       indirectly linked to an individual consumer, and the business                                                     
+19 (A)  has implemented technical safeguards that prohibit                                                                 
+20            reidentification of the consumer to whom the information may pertain;                                        
+21 (B)  has implemented business processes that specifically                                                               
+22            prohibit reidentification of the information;                                                                
+23 (C)  has implemented business processes to prevent inadvertent                                                          
+24            release of deidentified information; and                                                                     
+25                      (D)  makes no attempt to reidentify the information;                                               
+26                 (13)  "device" includes a computer and physical object that can                                         
+27 (A)  read, write, or store information that is represented in                                                           
+28            numerical form;                                                                                              
+29 (B)  connect to the Internet, directly or indirectly, or to another                                                     
+30            device;                                                                                                      
+31                 (14)  "homepage" means                                                                                  
+01                      (A)  the introductory page of an Internet website where personal                                   
+02            information is collected;                                                                                    
+03 (B)  in the case of a mobile application, "homepage" means the                                                          
+04 application's platform page or download page, a link within the application,                                            
+05 and any other location that allows consumers to review the notice required by                                           
+06            AS 45.49.010;                                                                                                
+07                 (15) "Internet webpage" means a document accessible through the                                         
+08       Internet with a unique universal resource locator (URL) code;                                                     
+09                 (16)  "person" means a natural person, proprietorship, corporation,                                     
+10 company, partnership, firm, association, and any other non-governmental organization                                    
+11       or group of persons acting in concert;                                                                            
+12                 (17)  "personal information"                                                                            
+13 (A)  means information that identifies, relates to, describes, is                                                       
+14 reasonably capable of being associated with, or could reasonably be linked,                                             
+15 directly or indirectly, with a particular consumer or household; in this                                                
+16            subparagraph, "information that identifies" includes                                                         
+17 (i)  a real name, alias, postal address, unique personal                                                                
+18 identifier, online identifier, Internet protocol address, electronic mail                                               
+19 address, account name, social security number, driver's license number,                                                 
+20                 or passport number;                                                                                     
+21 (ii)  characteristics of protected classifications under                                                                
+22                 state or federal law;                                                                                   
+23 (iii)  any category of personal information as defined in                                                               
+24                 AS 45.48.090;                                                                                           
+25 (iv)  commercial information, including records of                                                                      
+26 personal property, products or services purchased, obtained, or                                                         
+27                 considered, or other purchasing or consuming histories or tendencies;                                   
+28 (v)  biometric information, which includes an                                                                           
+29 individual's physiological, biological, or behavioral characteristics;                                                  
+30 deoxyribonucleic acid, that can be used, singly or in combination with                                                  
+31 other identifying data, to establish individual identity; imagery of the                                                
+01                 retina, fingerprints, face, vein patterns, or voice recordings that can be                              
+02                 used as an identifier template; keystroke patterns or rhythms; or sleep,                                
+03                 health, or exercise data;                                                                               
+04 (vi)  Internet or other electronic network activity                                                                     
+05 information, including browsing history, search history, and                                                            
+06 information regarding a consumer's interaction with an Internet                                                         
+07                 website, application, or advertisement;                                                                 
+08                           (vii)  geolocation data, including precise geolocation                                        
+09                 data;                                                                                                   
+10 (viii)  audio, electronic, visual, thermal, olfactory, or                                                               
+11                 similar information;                                                                                    
+12                           (ix)  professional or employment information;                                                 
+13 (x)  education information that is not publicly available,                                                              
+14 personally identifiable information as defined in 20 U.S.C. 1232g; 34                                                   
+15                 C.F.R. Part 99 (Family Educational Rights and Privacy Act);                                             
+16 (xi)  inferences drawn from any of the information                                                                      
+17 identified in this subparagraph to create a profile about a consumer                                                    
+18 reflecting the consumer's preferences, characteristics, psychological                                                   
+19 trends, predispositions, behavior, attitudes, intelligence, abilities, and                                              
+20                 aptitudes;                                                                                              
+21 (B)  does not include publicly available information that is                                                            
+22 lawfully made available from federal, state, or local government records;                                               
+23 biometric information as described in (A) of this paragraph, collected by a                                             
+24 business without a consumer's knowledge is not considered publicly available                                            
+25            information;                                                                                                 
+26 (C)  does not include consumer information that is deidentified                                                         
+27            or aggregated;                                                                                               
+28 (18)  "processing" means any operation or set of operations performed                                                   
+29       on personal data or on sets of personal data, whether or not by automated means;                                  
+30 (19)  "precise geolocation data" means any data that is derived from a                                                  
+31 device that is used or intended to be used to locate a consumer within a geographic                                     
+01       area that is equal to or less than the area of a circle with a radius of 1,850 feet, except                       
+02       as otherwise provided in regulations adopted under this chapter;                                                  
+03                 (20)  "research" means scientific, systematic study and observation that                                
+04       is in the public interest and that adheres to all other applicable ethics and privacy laws                        
+05       or studies conducted in the public interest and is                                                                
+06                      (A)  compatible with the business purpose for which the                                            
+07            personal information was collected;                                                                          
+08                      (B)  subsequently pseudonymized and deidentified, or                                               
+09            deidentified and in the aggregate, such that the information cannot reasonably                               
+10 identify, relate to, describe, be capable of being associated with, or be linked,                                       
+11 directly or indirectly, to a particular consumer; personal information is                                               
+12 considered pseudonymized if the information is processed so that it is no                                               
+13 longer attributable to a specific consumer without the use of additional                                                
+14 information, and the additional information is kept separately and is subject to                                        
+15 technical and organizational measures to ensure that the personal information                                           
+16            is not attributed to an identified or identifiable consumer;                                                 
+17 (C)  subject to technical safeguards that prohibit reidentification                                                     
+18            of the consumer to whom the information may pertain;                                                         
+19 (D)  subject to business processes that specifically prohibit                                                           
+20            reidentification of the information;                                                                         
+21 (E)  subject to business processes to prevent inadvertent release                                                       
+22            of deidentified information;                                                                                 
+23                      (F)  protected from any reidentification attempts;                                                 
+24 (G)  used solely for research purposes that are compatible with                                                         
+25            the context in which the personal information was collected;                                                 
+26                      (H)  not used for a commercial purpose; and                                                        
+27 (I)  subjected by the business conducting the research to                                                               
+28 additional security controls that limit access to the research data to individuals                                      
+29            in the business as necessary to carry out the research purpose;                                              
+30 (21)  "sale," "sell," or "sold" means selling, renting, releasing,                                                      
+31 disclosing, disseminating, making available, transferring, or otherwise communicating                                   
+01 orally, in writing, or by electronic or other means, a consumer's personal information                                  
+02 by the business to another business or a third party for monetary or other valuable                                     
+03       consideration; "sale," "sell," or "sold" does not include                                                         
+04 (A)  a consumer using or directing a business to intentionally                                                          
+05 disclose personal information or using the business to intentionally interact                                           
+06 with a third party, provided the third party does not also sell the personal                                            
+07 information, unless that disclosure would be consistent with the provisions of                                          
+08 this title; a consumer is not acting intentionally when hovering over, muting,                                          
+09            pausing, or closing a given piece or content;                                                                
+10 (B)  a business's using or sharing an identifier for a consumer                                                         
+11 who has opted out of the sale of the consumer's personal information for the                                            
+12            purpose of alerting third parties that the consumer has opted out;                                           
+13 (C)  a business's using or sharing with a service provider a                                                            
+14 consumer's personal information that is necessary to perform a business                                                 
+15            purpose if                                                                                                   
+16 (i)  the business has provided notice of the information                                                                
+17 being used or shared in its terms and conditions consistent with                                                        
+18                 AS 45.49.010; and                                                                                       
+19 (ii)  the service provider does not further collect, sell, or                                                           
+20 use the consumer's personal information, except as necessary to                                                         
+21                 perform the business purpose;                                                                           
+22 (D)  a business transferring a consumer's personal information                                                          
+23 as an asset in a merger, acquisition, bankruptcy, or other transaction in which                                         
+24 the third party assumes control of all or part of the business, provided that                                           
+25            information is used or shared consistent with AS 45.49.020 and 45.49.040;                                    
+26 (22)  "service provider" means a person that receives personal                                                          
+27 information from a business to be used solely for a business purpose, under a written                                   
+28       contract that requires the service provider comply with AS 45.49.080;                                             
+29                 (23)  "third party" means any person, except                                                            
+30 (A)  the business that collected the personal information from                                                          
+31            the consumer; and                                                                                            
+01 (B)  a service provider contracting with the business that                                                              
+02            collected the personal information from the consumer;                                                        
+03 (24)  "unique identifier" or "unique personal identifier" includes a                                                    
+04 device identifier; an Internet protocol address; cookies, beacons, pixel tags, mobile ad                                
+05 identifiers, or similar technology; customer number, unique pseudonym, or user alias;                                   
+06 telephone numbers, or other forms of persistent or probabilistic identifiers that can be                                
+07 used to identify a particular consumer or device; or other persistent identifier that can                               
+08 be used to recognize a consumer, a household, or a device that is linked to a consumer                                  
+09 or household, over time and across different services; in this paragraph, "probabilistic                                
+10 identifier" means the identification of a consumer or a device to a degree of certainty                                 
+11 of more probable than not based on any categories of personal information included                                      
+12       in, or similar to, the categories of personal information as defined in this section;                             
+13 (25)  "verified consumer request" means a request that is made by a                                                     
+14 consumer, by a parent or legal guardian with legal custody of the consumer, or by a                                     
+15 natural person or a person registered with the United States Secretary of State,                                        
+16 authorized by the consumer to act on the consumer's behalf, and that the business can                                   
+17 reasonably verify, in accordance with regulations adopted under this chapter, to be the                                 
+18       consumer about whom the business has collected personal information.                                              
+19 Sec. 45.49.295. Short title. This chapter may be cited as the Consumer Data                                           
+20       Privacy Act.                                                                                                      
+21    * Sec. 3. AS 45.50.471(b) is amended by adding a new paragraph to read:                                            
+22                 (58)  violating AS 45.49 (Consumer Data Privacy Act).                                                   
+23    * Sec. 4. The uncodified law of the State of Alaska is amended by adding a new section to                          
+24 read:                                                                                                                   
+25 TRANSITION: REGULATIONS. The Department of Law and the Department of                                                    
+26 Commerce, Community, and Economic Development may adopt regulations necessary to                                        
+27 implement the changes made by this Act. The regulations take effect under AS 44.62                                      
+28 (Administrative Procedure Act), but not before the effective date of the law implemented by                             
+29 the regulation.                                                                                                         
+30    * Sec. 5. Section 4 of this Act takes effect immediately under AS 01.10.070(c).                                    
+31    * Sec. 6. Except as provided in sec. 5 of this Act, this Act takes effect January 1, 2023.                         

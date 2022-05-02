@@ -1,0 +1,60 @@
+﻿statute,title,score,label,state,year,type,party,keyword_1,keyword_2,keyword_3,keyword_4,keyword_5
+SB1392,Virginia Consumer Data Privacy Act,0.072617997,positive,Virginia,2021,signed law,D,data,controller,consumer,personal,shall
+SB227,Utah Consumer Privacy Act,0.056893572,positive,Utah,2022,signed law,R,data ,controller,consumer,personal,chapter
+SB190,Colorado Privacy Act,0.025756542,positive,Colorado,2021,signed law,Bipartisan,information,consumer,business,personal,1798
+Prop 24,California Privacy Rights Act,0.025756542,positive,California,2020,signed law,D,information,consumer,business,personal,1798
+CCPA,California Consumer Privacy Act,0.025762103,positive,California,2018,signed law,D,information,consumer,business,personal,1798
+HB159,Consumer Data Privacy Act,0.060322803,positive,Alaska,2018,active bill,D,information,consumer,business,personal,45
+SB116,Consumer Data Privacy Act,0.060322803,positive,Alaska,2022,active bill,D,information,consumer,business,personal,46
+HB222,Alaska Consumer Information Protection Act,0.061493506,positive,Alaska,2021,active bill,R,person,credit,information,law,ssn
+SB6,,0.039200833,positive,Connecticut,2022,active bill,D,data,consumer,controller,personal,1
+SB394,Georgia Computer Data Privacy Act,0.084644403,positive,Georgia,2022,active bill,R,provide,information,1,georgia,data
+HF 2506,,0.105050505,positive,Iowa,2021,active bill,Bipartisan,1,data,means,2506,consumer
+SF2208,,0.054743953,positive,Iowa,2022,active bill,Bipartisan,data,consumer,controller,personal,shall
+SB15,,0.056961025,positive,Kentucky,2022,active bill,R,data,consumer,controller,personal,1
+HB586,,0.056961025,positive,Kentucky,2022,active bill,R,data,consumer,controller,personal,1
+SB11,,0.062074733,positive,Maryland,2022,active bill,D,consumer,information,business,personal,14
+S2687,Massachusetts Information Privacy and Security Act,0.029086374,positive,Massachusetts,2022,active bill,Bipartisan,information,controller,individual,personal,shall
+HF1492,Massachusetts Information Privacy and Security Act,0.026065188,positive,Minnesota,2022,active bill,D,data,controller,personal,consumer,processing
+H4514,Minnesota Consumer Data Privacy Act,0.027730223,positive,Minnesota,2021,active bill,Bipartisan,information,controller,individual,personal,shall
+LB1188,Uniform Personal Data Protection Act,0.021359081,positive,Nebraska,2022,active bill,R,data,personal,controller,act,subject
+A505,New Jersey Disclosure and Accountability Transparent Act,0.107442501,positive,New Jersey,2022,active bill,D,information,identifiable,personally,consumer,controller
+S332,,0.067183983,positive,New Jersey,2022,active bill,D,information,consumer,identifiable,personally,operator
+A1971,,0.062540814,positive,New Jersey,2020,active bill,D,information,consumer,identifiable,personally,operator
+A680B,New York Privacy Act,0.012269868,positive,New York,2022,active bill,D,data,consumer,personal,controller,such
+S6701A,New York Privacy Act,0.07435591,positive,New York,2021,active bill,D,data,new,section,personal,act
+A6042,Digital Fairness Act,0.028086335,postive,New York,2021,active bill,D,information,shall,individual,entity,covered
+S567,,0.028086335,positive,New York,2021,active bill,D,information,shall,individual,entity,covered
+A3709,,0.028631293,positive,New York,2021,active bill,D,information,consumer,business,personal,section
+S569,Consumer Privacy Act,0.060471599,positive,North Carolina,2021,active bill,D,data,controller,consumer,personal,shall
+HB376,Phio Personal Privacy Act,-0.103386243,negative,Ohio,2021,active bill,R,officer,peace,camera,person,enforcement
+HB1602,Oklahoma Computer Data Privacy Act,0.045670083,positive,Oklahoma,2021,active bill,Bipartisan,information,consumer,business,section,2
+HB2969,Oklahoma Computer Data Privacy Act of 2022,0.040662637,positive,Oklahoma,2022,active bill,Bipartisan,information,consumer,business,section,3
+HB3447,Uniform Personal Data Protection Act,0.034525974,positive,Oklahoma,2022,active bill,R,data,section,controller,personal,act
+HB1126,,0.017306211,positive,Pennsylvania,2022,active bill,Bipartisan,consumer,information,personal,business,1
+HB2202,Consumer Data Privacy Act,0.000132947,positive,Pennsylvania,2021,active bill,Bipartisan,information,consumer,personal,business,service
+HB2257,Consumer Data Protection Act,0.010026688,positive,Pennsylvania,2022,active bill,D,data,consumer,controller,personal,act
+H7917,Rhode Island Information Privacy Act,0.010026688,positive,Rhode Island,2022,active bill,D,data ,consumer,controller,personal,act
+H0160,,0.043055556,positive,Vermont,2021,active bill,D,1,consumer,bill,introduced,privacy
+H570,,-0.038888889,negative,Vermont,2022,active bill,Bipartisan,1,bill,introduced,570,short
+HB2790,,0.03713474,positive,Arizona,2021,inactive bill,D,data,personal,consumer,controller,processing
+SB1864,Florida Privacy Protection Act,0.056301355,positive,Florida,2022,inactive bill,R,information,consumer,personal,controller,act
+HB2051,Hawaii Consumer Privacy Act,0.054412371,positive,Hawaii,2021,inactive bill,D,information,consumer,personal,business,shall
+SB2428,Consumer Data Protection Act,0.058863109,positive,Hawaii,2022,inactive bill,D,data,controller,consumer,personal,shall
+SB2797,Consumer Data Protection Act,0.059286242,positive,Hawaii,2022,inactive bill,D,data,controller,consumer,personal,shall
+HB2341,Consumer Data Protection Act,0.059286242,positive,Hawaii,2022,inactive bill,D,data,controller,consumer,personal,shall
+HB1261,,0.038715617,positive,Indiana,2019,inactive bill,D,consumer,information,business,personal,1
+SB358,,0.038715617,positive,Indiana,2022,inactive bill,R,consumer,information,business,personal,1
+LD1982,Maine Consumer Privacy Act,0.03866652,positive,Maine,2021,inactive bill,D,information,consumer,business,personal,section
+HB4514,Massachusetts Information Privacy Act,0.027840111,positive,Massachusetts,2021,pending,D,information,controller,individual,personal,shall
+H136,,0.009175908,positive,Massachusetts,2021,inactive bill,D,data,shall,agency,individual,chapter
+SB2330,Mississippi Consumer Data Privacy Act,0.05518751,positive,Mississippi,2020,inactive bill,D,consumer,information,personal,business,consumers
+HB1433,People's Privacy Act,0.049707646,positive,Washington,2021,inactive bill,Bipartisan,information,entity,personal,individual,covered
+SB5062,Washington Privacy Act,0.042661464,positive,Washington,2021,inactive bill,Bipartisan,data,controller,consumer,personal,section
+HB1850,Washington Foundational Data Privacy Act,0.037797465,positive,Washington,2021,inactive bill,D,data,controller,personal,consumer,section
+SB5813,,0.036903818,positive,Washington,2021,inactive bill,D,data,personal,business,consumer,chapter
+HB4454,,0.047979402,positive,West Virginia,2022,inactive bill,R,consumer,information,personal,business,opt
+AB957,,0.049535542,positive,Wisonsin,2022,inactive bill,R,data,controller,personal,consumer,1
+SB957,,0.049535542,positive,Wisonsin,2022,inactive bill,R,data,controller,personal,consumer,1
+AB1050,,0.047816671,positive,Wisonsin,2021,inactive bill,D,consumer,information,business,personal,1
+SB997,,0.049092971,positive,Wisonsin,2021,inactive bill,,nurse,441,licensed,title,1
